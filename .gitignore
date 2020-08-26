@@ -91,6 +91,6 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
-# Hazel-specific
+# Engine specific
 bin
-bin-int
+intermediates
